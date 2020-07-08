@@ -1,6 +1,7 @@
 {
     "name": "olnyov/laravel-wishlist-api",
     "description": "laravel wishlist API",
+    "version": "0.0.1",
     "keywords": [
       "laravel", "wishlist", "laravel wishlist", "laravel wishlist api"
     ],
